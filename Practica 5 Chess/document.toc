@@ -1,0 +1,13 @@
+\babel@toc {nil}{}\relax 
+\contentsline {section}{\numberline {1}Introducción}{2}{}%
+\contentsline {section}{\numberline {2}Marco Teórico}{2}{}%
+\contentsline {subsection}{\numberline {2.1}Autómatas}{2}{}%
+\contentsline {subsection}{\numberline {2.2}AFN a AFD}{2}{}%
+\contentsline {section}{\numberline {3}Desarrollo}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Programa 4 Buscador de palabras mediante un AFD}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Planteamiento y solución}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Código}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.1}Código de la función principal (main.py)}{4}{}%
+\contentsline {subsubsection}{\numberline {3.3.2}Código de los métodos utilizados (functions.py)}{5}{}%
+\contentsline {section}{\numberline {4}Resultados}{16}{}%
+\contentsline {section}{\numberline {5}Conclusión}{18}{}%
