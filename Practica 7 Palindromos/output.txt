@@ -1,0 +1,6 @@
+Tamaño de la cadena a generar: 5
+
+-> P
+-> 0P0
+-> 00P00
+-> 00000
