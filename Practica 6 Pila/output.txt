@@ -1,0 +1,3 @@
+Cadena: 111000
+
+Stack underflow!
