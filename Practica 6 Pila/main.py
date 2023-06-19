@@ -1,3 +1,6 @@
+#   IPN - Escuela Superior de Computación   
+#   Autor: Jimenez Luna Rodrigo Efren
+#   Grupo: 4CM2
 import os
 import random
 
@@ -21,7 +24,6 @@ while option:
         if option == 1:
             print("Ingrese una cadena de 0's y 1's menor de 100,000 caracteres: ")
             str = input()
-            # print("{}".format(str))
 
             if validateStr(str):
                 print("La cadena contiene caracteres diferentes de 0 y 1!\n")

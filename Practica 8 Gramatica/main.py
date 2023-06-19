@@ -31,7 +31,7 @@ while option:
                 print("La cadena contiene más caracteres de los permitidos\n")
                 continue
         elif option == 2:
-            str = createStr(random.randint(1, 100000))
+            str = createStr(random.randint(1, 1000))
             print("Evaluando la cadena de tamaño {} en el automata...".format(len(str)))
         else:
             print("Sesion terminada")
